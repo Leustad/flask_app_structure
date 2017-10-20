@@ -18,25 +18,25 @@ It uses the python version on your path to create a virtual enviroment with the 
 
 ##### Structure
 
-<APP_NAME>
-- <APP_NAME>
-    - static
-        - css
-        - files
-        - img 
-        - js
-    - templates
-        - errors
-        - extras
+<APP_NAME>\\ (main folder)
+- <APP_NAME>\\ (app folder)
+    - static\\
+        - css\\
+        - files\\
+        - img\\
+        - js\\
+    - templates\\
+        - errors\\
+        - extras\\
         - _base.html
         - index.html
-    - views
-        - \__init__.py
-    - \__init__.py
+    - views\\
+        - \_\_init\_\_.py
+    - \_\_init\_\_.py
     - config.py
     - models.py
-- test
-- venv
+- test\\
+- venv\\
 - .gitignore
 - bitbucket-pipelines.yml
 - create_db.py
