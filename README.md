@@ -4,6 +4,8 @@ Quickly Create Folder Structure for your Flask App
 
 This folder structure is for Large Applications similar to how it's shown ['here'](http://flask.pocoo.org/docs/0.12/patterns/packages/ "Flask LArge Applications") 
 
+Ofcourse you will have to adjust this to your needs as you know every project requires differents files/folders.
+
 ### How To
 
 Just Run the shell script at the root of your project before creating any files. It requires an app name.
